@@ -6,7 +6,7 @@
 * Logging configurations
 * Deploying an AWS lambda function to the cloud.
 
-## Prereqisistes
+## Prerequisites
 
 * Python
 * Jupyter Notebook
